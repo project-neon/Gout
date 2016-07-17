@@ -1,2 +1,35 @@
-# Gout
+# GOUT
 An ESP8266 data monitoring for your water reservoir.
+
+## BackStory
+
+Some members of the Nobox Robotics team were invited to participate at a Hackaton organized by Leroy Merlin, to launch the so called brico lab on their stores. The theme of this year's event was Water Saving, and our teams made their best to build criative and functional ideas on it.
+
+## The Project
+
+The GOUT project consists of a flux sensor and a system that help and award the user over it's water usage. The sensor on the feeder of the water reservoir, measures the amount of water that enters it, and through a very easy to use and affordable microcontroller with wireless connection (ESP8266), the system can read and display to the user the water he used, and compare it to a previously set goal.
+
+## Hardware
+
+| Item | Buy                                                                                        | Real | Dolar | Qtd |
+|------|--------------------------------------------------------------------------------------------|------|-------|-----|
+| NODEMCU ESP8266 |[(BR)](http://www.filipeflop.com/pd-2c140d-modulo-wifi-esp8266-nodemcu-esp-12e.html?ct=&p=1&s=1) [(World)]()   | R$ 69,90 | $ 3,50 | 1|
+| Water Flux Sensor |[(BR)](http://www.filipeflop.com/pd-206c5b-sensor-de-fluxo-de-agua-1-2-yf-s201.html) [(World)](http://www.ebay.com/itm/Water-flow-sensor-flowmeter-Hall-flow-sensor-Module-Water-control-1-30L-min-NEW-/181847345719?hash=item2a56f24a37:g:7FIAAOSw34FVBN71)| R$ 44,90 | $ 3,02 | 1   |
+| Plastic IP55 Case |[(BR)](http://www.leroymerlin.com.br/caixa-de-passagem-de-embutir-transparente-steck_88530862) [(World)](http://www.ebay.com/itm/Junction-Box-IP55-Screwed-Lid-Grey-120x80x50-No-Holes-Enclosure-Plastic-Case-/301702005825?hash=item463ed74441:g:OGQAAOSw3ydVvOJy) | R$ 30,90 | $ 5,00 | 1   |
+| Tube Junctions | [(BR)](LMGTFY) [(World)](LMGTFY)        | R$ xx,xx | $ xx,xx | 1   |
+
+## Software
+
+* Arduino IDE With ESP Boards Installed
+* Download the arduino code from this repository
+* TODO: Our App
+
+### Credits
+
+[João Pedro]()
+
+[Vitor Daga]()
+
+[Marcos de Oliveira]()
+
+[Renato Rodrigues]()
