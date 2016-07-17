@@ -23,7 +23,7 @@ For the hardware list with prices and places to buy, check the table below.
 |------|--------------------------------------------------------------------------------------------|------|-------|-----|
 | NODEMCU ESP8266 |[(BR)](http://www.filipeflop.com/pd-2c140d-modulo-wifi-esp8266-nodemcu-esp-12e.html?ct=&p=1&s=1) [(World)](http://www.ebay.com/itm/NodeMcu-Lua-ESP8266-CH340G-WIFI-Internet-Development-Board-Module-/161833537754?hash=item25ae07d0da:g:N-4AAOSwepZXSUtI)   | R$ 69,90 | $ 3,50 | 1|
 | Water Flux Sensor |[(BR)](http://www.filipeflop.com/pd-206c5b-sensor-de-fluxo-de-agua-1-2-yf-s201.html) [(World)](http://www.ebay.com/itm/Water-flow-sensor-flowmeter-Hall-flow-sensor-Module-Water-control-1-30L-min-NEW-/181847345719?hash=item2a56f24a37:g:7FIAAOSw34FVBN71)| R$ 44,90 | $ 3,02 | 1   |
-| Plastic IP55 Case |[(BR)](http://www.leroymerlin.com.br/caixa-de-passagem-de-embutir-transparente-steck_88530862) [(World)](http://www.ebay.com/itm/Junction-Box-IP55-Screwed-Lid-Grey-120x80x50-No-Holes-Enclosure-Plastic-Case-/301702005825?hash=item463ed74441:g:OGQAAOSw3ydVvOJy) | R$ 30,90 | $ 5,00 | 1   |
+| Plastic IP55 Case |[(BR)](http://www.leroymerlin.com.br/caixa-de-passagem-de-embutir-transparente-steck_88530862) [(World)](http://www.ebay.com/itm/Junction-Box-IP55-Screwed-Lid-Grey-120x80x50-No-Holes-Enclosure-Plastic-Case-/301702005825?hash=item463ed74441:g:OGQAAOSw3ydVvOJy) | R$ 14,90 | $ 5,00 | 1   |
 | Tube Junctions | [(BR)](http://lmgtfy.com/?q=leroy+merlin) [(World)](http://lmgtfy.com/?q=local+harware+store)        | R$ 5,00 | $ 5,00 | 1   |
 | Resistors | 10k Resistors |R$ 2,00 |$ 1,00 | 2 | 
 
