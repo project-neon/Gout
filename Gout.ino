@@ -37,6 +37,15 @@ void handleNotFound(){
   server.send(404, "text/plain", message);
 }
 
+void flow()
+{
+flowcount +=1;
+}
+
+
+
+
+
 void setup(void){
   // put your setup code here, to run once:
   pinMode(flowPin, INPUT_PULLUP);
@@ -94,10 +103,7 @@ void setup(void){
   // MDNS.addService("http","tcp",80);
 }
 
-void flow()
-{
-flowcount +=1;
-}
+
 
 void loop(){
   Serial.print("Flow in Liters: ");  Serial.println(flowcount/450.0);
