@@ -1,4 +1,4 @@
-# GOUT
+![Gout Logo](http://i.imgur.com/PV6Cu39.png)
 An ESP8266 data monitoring for your water reservoir.
 
 ## BackStory
