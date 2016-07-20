@@ -11,6 +11,10 @@ Some members of the Nobox Robotics team were invited to participate at a Hackato
 
 The GOUT project consists of a flux sensor and a system that help and award the user over it's water usage. The sensor on the feeder of the water reservoir, measures the amount of water that enters it, and through a very easy to use and affordable microcontroller with wireless connection (ESP8266), the system can read and display to the user the water he used, and compare it to a previously set goal.
 
+#Warning
+
+This project was developed at a hackaton, the functions implemented here worked flawlessly at the event, but some fuctions like deep-sleep for power saving as planned by the creators are still not implemented, and we encourage you in doing it!
+
 ## How-to-build
 
 Check out our Instructables link[Click Here](http://www.instructables.com).
